@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=Varun%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast%20%E2%9A%A1&descAlignY=58&descSize=20&descColor=8FE3FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:FFD700&height=230&section=header&text=Varun%20Kumar&fontSize=58&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast%20%E2%9A%A1&descAlignY=52&descSize=20&descColor=00CFFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=MCA+Data+Science+%40+Chandigarh+University;SAP+HackFest+2026+%E2%80%94+North+India+Finalist+%F0%9F%8F%86;Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI;Building+Real-World+AI+%2B+Data+Projects" />
+<img src="https://img.shields.io/badge/🏆_SAP_HACKFEST_2026-NORTH_INDIA_FINALIST-FFD700?style=for-the-badge&labelColor=0D0D0D" width="420"/>
 
-<br>
+<br><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=varunntech&color=00C6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/varunntech)
-[![Location](https://img.shields.io/badge/📍_Mohali-India-2C5364?style=for-the-badge&labelColor=0F2027)](.)
-[![Education](https://img.shields.io/badge/🎓_MCA-Data_Science,_CU-2C5364?style=for-the-badge&labelColor=0F2027)](.)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=MCA+Data+Science+%40+Chandigarh+University;Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI;Building+Real-World+AI+%2B+Data+Projects" />
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" alt="coding animation"/>
+<img src="https://komarev.com/ghpvc/?username=varunntech&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/📍_Mohali-India-8B0000?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/🎓_MCA-Data_Science,_CU-8B0000?style=for-the-badge&labelColor=0D0D0D"/>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 14px; border: 2px solid #FFD700;" alt="coding animation"/>
 
-<div align="center">
-
-## 🏆 SAP HackFest 2026 — North India Finalist 🏆
+<br><br>
 
 > *"Whatever happens in the middle overs, I finish the game."* — the Dhoni line I try to code by: calm through the bug storms, chases every deadline down to the last over.
 
@@ -30,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -61,14 +59,14 @@ goal: Build impactful AI and data-driven solutions 🚀
 <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,powerbi" />
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=00C6FF)
-![Java](https://img.shields.io/badge/Java-0F2027?style=flat-square&logo=openjdk&logoColor=00C6FF)
-![SQL](https://img.shields.io/badge/SQL-0F2027?style=flat-square&logo=mysql&logoColor=00C6FF)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=FFD700)
+![Java](https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=FFD700)
+![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=mysql&logoColor=FFD700)
 
 **Data & AI**
-![Pandas](https://img.shields.io/badge/Pandas-0F2027?style=flat-square&logo=pandas&logoColor=00C6FF)
-![NumPy](https://img.shields.io/badge/NumPy-0F2027?style=flat-square&logo=numpy&logoColor=00C6FF)
-![Power BI](https://img.shields.io/badge/Power_BI-0F2027?style=flat-square&logo=powerbi&logoColor=00C6FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D0D0D?style=flat-square&logo=pandas&logoColor=00CFFF)
+![NumPy](https://img.shields.io/badge/NumPy-0D0D0D?style=flat-square&logo=numpy&logoColor=00CFFF)
+![Power BI](https://img.shields.io/badge/Power_BI-0D0D0D?style=flat-square&logo=powerbi&logoColor=00CFFF)
 
 </td>
 </tr>
@@ -78,7 +76,7 @@ goal: Build impactful AI and data-driven solutions 🚀
 
 ## 🚀 Featured Work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -137,12 +135,12 @@ Exploratory data analysis on Netflix content data using Jupyter Notebook.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=varunntech&show_icons=true&theme=radical&hide_border=true&bg_color=0F2027&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=varunntech&theme=radical&hide_border=true&background=0F2027&stroke=00C6FF&ring=00C6FF&fire=8FE3FF&currStreakLabel=00C6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=varunntech&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=varunntech&theme=radical&hide_border=true&background=0D0D0D&stroke=FFD700&ring=8B0000&fire=FFD700&currStreakLabel=FFD700" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunntech&theme=radical&hide_border=true&layout=compact&bg_color=0F2027&title_color=00C6FF&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunntech&theme=radical&hide_border=true&layout=compact&bg_color=0D0D0D&title_color=FFD700&text_color=c9d1d9" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunntech&bg_color=0F2027&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunntech&bg_color=0D0D0D&color=FFD700&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -154,9 +152,9 @@ Exploratory data analysis on Netflix content data using Jupyter Notebook.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunkumar32)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunntech)
-[![Email](https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunntech@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://varun-kumar.in)
+[![Email](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunntech@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://varun-kumar.in)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:0D0D0D&height=100&section=footer" width="100%"/>
