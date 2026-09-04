@@ -10,6 +10,10 @@
 [![Location](https://img.shields.io/badge/📍_Mohali-India-2C5364?style=for-the-badge&labelColor=0F2027)](.)
 [![Education](https://img.shields.io/badge/🎓_MCA-Data_Science,_CU-2C5364?style=for-the-badge&labelColor=0F2027)](.)
 
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" alt="coding animation"/>
+
 </div>
 
 <br>
@@ -126,12 +130,6 @@ Exploratory data analysis on Netflix content data using Jupyter Notebook.
 </td>
 </tr>
 </table>
-
----
-
-## 🎮 Open Source Contribution
-
-Currently contributing to **[2048](https://github.com/gabrielecirulli/2048)** — the classic sliding-tile puzzle game, one of the most-starred and beginner-friendly JavaScript game repos on GitHub. Great place to pick up a `good first issue` and ship a real PR.
 
 ---
 
